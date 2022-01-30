@@ -52,7 +52,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
----
+
 We compare the usage of different well-known models for the binary classification task: **Pneumonia** vs **Healthy/Normal** in x-ray images.
 
 
@@ -85,7 +85,7 @@ We compare the usage of different well-known models for the binary classificatio
 
 <!-- GETTING STARTED -->
 ## Getting Started
----
+
 The folder structure is as follows:
 ```
     ├── Original Data            # Github repos to the original data
@@ -145,7 +145,7 @@ The folder structure is as follows:
 
 <!-- USAGE EXAMPLES -->
 ## Usage
----
+
 This section discusses how to run the code and download all 6 datasets.
 
 <div id="data"></div>
@@ -192,7 +192,6 @@ To download the 6 datasets: do as follows and place them in the folder `Original
 
 
 ## Future Work
----
 
 - [ ] Use Kermany et. al CT-data
 - [ ] Segment the lungs before classification
@@ -209,7 +208,7 @@ To download the 6 datasets: do as follows and place them in the folder `Original
 <div id="contact"></div>
 
 ## Contact
----
+
 * Merna Bibars - merna.bibars@eng.cu.edu.eg
 
 * Peter Emad - peter.emad@eng.cu.edu.eg
